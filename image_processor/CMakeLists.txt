@@ -1,0 +1,21 @@
+add_executable(
+        image_processor
+        image_processor.cpp
+        Image/Color.h
+        Image/Image.h
+        Reading_and_writing/Reader.h
+        Reading_and_writing/Utils.h
+        Reading_and_writing/Reader.cpp
+        Image/Image.cpp
+        image_processor.h
+        Reading_and_writing/Writer.cpp
+        Reading_and_writing/Writer.h
+        Image/Color.cpp
+        Parser/Parser.cpp
+        Parser/Parser.h
+        Filters/Filters.cpp
+        Perlin_noise/Perlin_noise.cpp
+        Exceptions/Exceptions.cpp
+        Vector/Vector2D.cpp
+        Overloading/Array_operations.h
+)

@@ -1,0 +1,42 @@
+lenna: -edge 0.1 // 24.890000
+lenna: -sharp // 22.372000
+lenna: -sharp // 21.541000
+lenna: -blur 0.84089642 // 26.845000
+lenna: -blur 0.24089642 // 25.963000
+lenna: -blur 8.24089642 // 26.930000
+lenna: -blur 2 // 71.324000
+lenna: -blur 10 // 72.678000
+lenna: -crop 200 200 // 3.748000
+lenna: -crop 1000 1000 // 4.033000
+lenna: -crop 1000 1000 // 4.069000
+lenna: -crop 1000 1000 -blur 15 // 22.067000
+lenna: -my // 26.078000
+lenna: -crop 1000 1000 -my // 8.038000
+lenna: -crop 1000 1000 -my // 8.141000
+lenna: -my // 24.339000
+lenna: -crop 1000 1000 -my // 8.054000
+lenna: -crop 1000 1000 -my // 8.059000
+lenna: -my // 24.169000
+lenna: // 3.496000
+lenna: -crop 1000 1000 -my // 6.030000
+lenna: -my // 16.129000
+lenna: -crop 1000 1000 -my // 5.950000
+lenna: -my // 16.623000
+lenna: -crop 1000 1000 -my // 6.040000
+lenna: -my // 16.790000
+lenna: -my // 16.897000
+lenna: -my // 16.646000
+lenna: -my // 17.183000
+lenna: -my // 17.377000
+lenna: -my // 18.947000
+lenna: // 5.216000
+lenna: -my 0.1 5 // 16.653000
+lenna: -my 0.1 3 // 16.761000
+lenna: -my 0.1 3 // 16.827000
+lenna: -my 0.1 3 // 16.825000
+lenna: -my 0.1 3 // 16.792000
+lenna: -my 0.1 3 // 16.741000
+lenna: -my 0.5 2 // 16.578000
+lenna: -my 0.5 2 // 17.016000
+lenna: -my 0.5 10 // 16.864000
+lenna: -my 0.5 20 // 16.901000
